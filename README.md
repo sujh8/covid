@@ -1,0 +1,2 @@
+# covid
+automatic detection 
